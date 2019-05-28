@@ -95,6 +95,7 @@ p.content {
 BODY RIGHT
  */
 .body-right {
+    box-sizing: border-box;
     background: #ffffff;
     border-left: 30px solid #eaeaea;
     /*box-sizing: border-box;*/
